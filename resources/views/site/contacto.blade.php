@@ -27,9 +27,9 @@
             </div>
             <div class="area-contato">
                 <h2>Contato</h2>
-                <span>(11) 3333-4444</span>
+                <span>(+244) 946-636-594</span>
                 <br>
-                <span>supergestao@dominio.com.br</span>
+                <span>supergestao@dominio.co.ao</span>
             </div>
             <div class="localizacao">
                 <h2>Localização</h2>
